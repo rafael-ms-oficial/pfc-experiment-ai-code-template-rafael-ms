@@ -30,6 +30,7 @@
 
 function isValid(s) {
   // Implementar aqui
+  console.log("Início Tarefa 1 - ChatGPT");
   return false;
 }
 
